@@ -26,7 +26,7 @@
 
 - <b>Past Projects I Loved (ask me about it!):</b>
     <ul>
-    <li>🗺️<b>TimeGuessr Infographic:</b> A guide on how to guess the year on any old photograph 1900 to 2025.</li>
+    <li>🗺️<b>TimeGuessr Infographic:</b> A 12-panel guide on how to guess the year on any old photograph 1900 to 2025.</li>
     <li>🤖<b>Grab N' Go:</b> Repurposing my senior year capstone project into a kid-friendly educational robotics tool in MIT Scratch code.</li>
     <li>🔓<b>CapsLock:</b> A capacitive touch screen passcode lock with a unique unlock mechanism.</li>
   </ul>
