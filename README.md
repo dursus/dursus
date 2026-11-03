@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=white">
+  [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+  <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
@@ -22,7 +22,7 @@ Data Analyst with a passion for visual storytelling, culture, world history, and
 - Portfolio Highlight: <a href="https://public.tableau.com/app/profile/david.boucard/viz/HowMobileWontheBattleoftheScreens/Dashboard1">How Mobile Won the Battle of the Screens</a>
 - Projects in the Works: MTA/Citibike data analysis dashboard in Power BI | Collaboration with @hperez1718-byte and @fayedtishad
 - Education: B.S. in Electrical Engineering from Columbia University 🦁
-- How to Reach Me: LinkedIn or email me at dursus1214@gmail.com
+- How to Reach Me: LinkedIn button at the top of this README or email me at dursus1214@gmail.com
 
 <br>
 
