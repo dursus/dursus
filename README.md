@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=David+Boucard;&repeat=false" alt="David Boucard" />
+  Data Analyst with a passion for visual storytelling, culture, world history, and learning about the technology that shapes our lives.
 </div>
 
 
@@ -15,8 +16,6 @@
 </div>
 
 <br>
-
-Data Analyst with a passion for visual storytelling, culture, world history, and learning about the technology that shapes our lives.
 
 - <b>Portfolio Highlight:</b> <a href="https://public.tableau.com/app/profile/david.boucard/viz/HowMobileWontheBattleoftheScreens/Dashboard1">How Mobile Won the Battle of the Screens</a>
 
