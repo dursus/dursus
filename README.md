@@ -7,11 +7,11 @@
 
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
-<p align="center">
-  
-  [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
-  
-</p>
+<div align="center">
+  <a href="#">
+    <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" alt="Tableau">
+  </a>
+</div>
 
 <p align="center">
   <img src="https://shields.io" alt="Tableau Badge">
