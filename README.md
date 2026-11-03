@@ -27,7 +27,7 @@ Data Analyst with a passion for visual storytelling, culture, world history, and
 <br>
 
 
-
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
 
 
