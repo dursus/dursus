@@ -18,10 +18,10 @@
 
 Data Analyst with a passion for visual storytelling, culture, world history, and learning about the technology that shapes our lives.
 
-- Portfolio Highlight: <a href="https://public.tableau.com/app/profile/david.boucard/viz/HowMobileWontheBattleoftheScreens/Dashboard1">How Mobile Won the Battle of the Screens</a>
-- Projects in the Works: MTA/Citibike data analysis dashboard in Power BI | Collaboration with <a href="https://github.com/hperez1718-byte" target="_blank">@hperez1718-byte</a> and <a href="https://github.com/fayedtishad" target="_blank">@fayedtishad</a>
-- Education: B.S. in Electrical Engineering from Columbia University 🦁
-- How to Reach Me: <a href="https://www.linkedin.com/in/david-boucard-19318246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a> or email me at dursus1214@gmail.com
+- <b>Portfolio Highlight:</b> <a href="https://public.tableau.com/app/profile/david.boucard/viz/HowMobileWontheBattleoftheScreens/Dashboard1">How Mobile Won the Battle of the Screens</a>
+- <b>Projects in the Works:</b> MTA/Citibike data analysis dashboard in Power BI | Collaboration with <a href="https://github.com/hperez1718-byte" target="_blank">@hperez1718-byte</a> and <a href="https://github.com/fayedtishad" target="_blank">@fayedtishad</a>
+- <b>Education:</b> B.S. in Electrical Engineering from Columbia University 🦁
+- <b>How to Reach Me:</b> <a href="https://www.linkedin.com/in/david-boucard-19318246/">LinkedIn</a> or email me at dursus1214@gmail.com
 
 <br>
 
