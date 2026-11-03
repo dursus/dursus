@@ -6,7 +6,12 @@
   <a href="https://www.linkedin.com/in/david-boucard-19318246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
-<p align="center">[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)</p>
+
+<p align="center">
+  
+  [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+  
+</p>
 
 <p align="center">
   <img src="https://shields.io" alt="Tableau Badge">
