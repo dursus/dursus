@@ -26,9 +26,9 @@
 
 - <b>Past Projects I Loved (ask me about it!):</b>
     <ul>
-    <li>TimeGuessr Infographic: A guide on how to guess the year on any old photograph 1900 to 2025.</li>
-    <li>Grab N Go: A kid-friendly educational robotics tool using MIT Scratch, a Raspberry Pi, an RC kit, and an old senior design capstone project.</li>
-    <li>CapsLock: A capacitive touch screen passcode lock with a unique unlock mechanism.</li>
+    <li><b>TimeGuessr Infographic:</b> A guide on how to guess the year on any old photograph 1900 to 2025.</li>
+    <li><b>Grab N' Go:</b> Repurposing my senior year capstone project into a kid-friendly educational robotics tool in MIT Scratch code.</li>
+    <li><b>CapsLock:</b> A capacitive touch screen passcode lock with a unique unlock mechanism.</li>
   </ul>
 - <b>Projects in the Works:</b> MTA/Citibike data analysis dashboard in Power BI | Collaboration with <a href="https://github.com/hperez1718-byte" target="_blank">@hperez1718-byte</a> and <a href="https://github.com/fayedtishad" target="_blank">@fayedtishad</a>
 - <b>Education:</b> B.S. in Electrical Engineering from Columbia University 🦁
