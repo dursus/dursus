@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=34&duration=2500&pause=1500&color=1D3557&center=true&vCenter=true&width=500&height=55&lines=David+Boucard;&repeat=false" alt="David Boucard" />
 
   <br>
-  Data Analyst with a passion for visual storytelling, culture, world history, and learning about the technology that shapes our lives.
+  A Data Analyst with a passion for visual storytelling, culture, world history, and learning about the technology that shapes our lives.
 </div>
 
+<br>
 
 <div align="center">
   <a href="#">
