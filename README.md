@@ -6,7 +6,6 @@
 <div align="center">
   <a href="#">
     <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" alt="Tableau">
-    <img src="https://shields.io" alt="Tableau Badge">
     <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
